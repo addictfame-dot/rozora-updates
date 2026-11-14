@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "9.0.3",
-  "apkUrl": "https://addictfame-dot.github.io/rozora-updates/Rozora_V13.apk",
-  "sha256": "e531b4d9ebad69f43822e214639356eaa7e4fa4ccfa57fab4e03f121fa401f65",
-  "notes": "Rozora V13"
+  "versionCode": 14,
+  "versionName": "9.0.4",
+  "apkUrl": "https://addictfame-dot.github.io/rozora-updates/Rozora_V14.apk",
+  "sha256": "2f145faefcdc26c3f2c78f59b05fbaa4144425f90c3f7f883ef79ab36d35178",
+  "notes": "Rozora V14: Added official website link in About section. Attendance, salary, and overtime features preserved."
 }
