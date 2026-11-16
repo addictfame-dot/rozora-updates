@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "9.0.6",
-  "apkUrl": "https://addictfame-dot.github.io/rozora-updates/Rozora_V16.apk",
-  "sha256": "6e3493a4289c576f9199f6eebd30c16804fbd2935ee20cdea8ba2bb540e4aa0e",
-  "notes": "Rozora V16: Improved attendance reminders with Present and Absent notification buttons. Includes updater improvements from V15."
+  "versionCode": 18,
+  "versionName": "9.0.8",
+  "apkUrl": "https://addictfame-dot.github.io/rozora-updates/Rozora_V18.apk",
+  "sha256": "9625c9060536e7f65abaab7889abf6a1afbcff648c6241983543bedb67efb2dd",
+  "notes": "Updated Salary and Profile layouts, status bar spacing, and Back navigation."
 }
