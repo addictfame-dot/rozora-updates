@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "9.0.9",
-  "apkUrl": "https://addictfame-dot.github.io/rozora-updates/Rozora_V19.apk",
-  "sha256": "382f02698f7f9d20d7bd774b92cc6e673f083ccaef44befbfd39ce079d267dab",
-  "notes": "Hindi and English, simpler attendance reminders, updated Salary card, themed exit dialog, and improved installer flow."
+  "versionCode": 20,
+  "versionName": "9.0.10",
+  "apkUrl": "https://addictfame-dot.github.io/rozora-updates/Rozora_V20.apk",
+  "sha256": "8cc7a193f1b5a4a0c0722474bae2e57420842e4ccccca650c3e50652e7775dbb",
+  "notes": "Record overtime in hours and minutes and preview extra pay before saving."
 }
