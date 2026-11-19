@@ -1,7 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "9.0.10",
-  "apkUrl": "https://addictfame-dot.github.io/rozora-updates/Rozora_V20.apk",
-  "sha256": "8cc7a193f1b5a4a0c0722474bae2e57420842e4ccccca650c3e50652e7775dbb",
-  "notes": "Record overtime in hours and minutes and preview extra pay before saving."
+  "versionCode": 21,
+  "versionName": "9.0.11",
+  "apkUrl": "https://addictfame-dot.github.io/rozora-updates/Rozora_V21.apk",
+  "sha256": "6c45e81b956b4cf1c0e79e853b1bc1f14798d34795709a3d7e36a12656aa3a56",
+  "sizeBytes": 6944318,
+  "notes": "Redesigned attendance, overtime and update screens. Added bulk Present marking and update alerts."
 }
