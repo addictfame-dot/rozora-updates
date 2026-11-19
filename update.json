@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "9.0.11",
-  "apkUrl": "https://addictfame-dot.github.io/rozora-updates/Rozora_V21.apk",
-  "sha256": "6c45e81b956b4cf1c0e79e853b1bc1f14798d34795709a3d7e36a12656aa3a56",
-  "sizeBytes": 6944318,
-  "notes": "Redesigned attendance, overtime and update screens. Added bulk Present marking and update alerts."
+  "versionCode": 22,
+  "versionName": "9.0.12",
+  "apkUrl": "https://addictfame-dot.github.io/rozora-updates/Rozora_V22.apk",
+  "sha256": "997dfd1a230c19798a86e83ebc31a4935cbf377a570e726fd8e35292b0575cd5",
+  "sizeBytes": 6964122,
+  "notes": "Organized the five main tabs and added lent-money records, due dates, and partial or full repayments."
 }
